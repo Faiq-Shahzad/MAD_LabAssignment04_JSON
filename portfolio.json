@@ -1,0 +1,43 @@
+{
+  "profilePic":"https://avatars.githubusercontent.com/u/85623366?s=400&u=3d059c0aa32c024be1fbccb68f83878ef927a498&v=4"
+  "name":"Faiq Shahzad",
+  "email":"faiqshahzad933@gmail.com",
+  "website":"https://github.com/Faiq-Shahzad",
+  "address":"Satellite Town, Rawalpindi",
+  "socialMedia": [
+    {"github": "https://github.com/Faiq-Shahzad"},
+    {"linkdin": "https://www.linkedin.com/in/faiq-shahzad-741325229/"},
+    {"twitter": "https://twitter.com/FaiqShahzad_021"},
+    {"facebook": "https://www.facebook.com/faiq.shahzad.75"},
+    {"instagram": "https://instagram.com/faiq_shah_021"}
+  ],
+  "education":[
+    {"level":"Matric",
+      "institute":"The Educators",
+      "address":"The Educators Boys Campus, Rawalpindi",
+      "subject":"Computer Science"
+    },
+    {"level":"Intermediate",
+      "institute":"Punjab Group of Colleges",
+      "address":"Punjab College of Information and Technology, Rawalpindi",
+      "subject":"Pre-Engineering"
+    },
+    {"level":"University",
+      "institute":"COMSATS",
+      "address":"COMSATS University, Islamabad",
+      "subject":"BS Computer Science"
+    }
+  ],
+  "experience":[
+    {"title":"Freelancing",
+      "work":"React Native Developer",
+      "duration":"2018-Current"
+    },
+    {"title":"Internship",
+      "work":"Adobe Photoshop",
+      "duration":"2019-2020"
+    }
+  ],
+  "skills":["HTML", "CSS", "Javascript", "Flutter", "Bootstrap", "Django", "NodeJs", "ReactJs", "ExpressJs"],
+  "contact":{"phone":"(+92) 331 5558407", "email":"faiqshahzad933@gmail.com"}
+}
